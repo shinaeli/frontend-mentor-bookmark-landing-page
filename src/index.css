@@ -468,6 +468,10 @@ form {
     align-items: center;
   }
 
+  .button-field button {
+    margin-left: 10px;
+  }
+
   .menu {
     width: 30px;
     height: 20px;
